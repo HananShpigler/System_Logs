@@ -1,5 +1,5 @@
 # System Logs
-A simple tool for managing tasks / fails / reports and the like
+A simple tool for managing tasks / fails / reports.
 
 <img src="images/1.png" width=1000>
 <img src="images/2.png" width=50>
