@@ -11,5 +11,5 @@
 ##### 3. Open the terminal and install all required dependencies with ***`npm i`*** #####
 ##### 4. type ***`npm run dev`*** to run both server and app #####
 
- ###### 📚 *Enjoy Creating Logs !* 📚 ######
+ ###### 📚 *Enjoy Creating Logs !!* 📚 ######
 
